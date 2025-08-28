@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Crowley</h1>
 <h3 align="center">A jack of all trades in tech</h3>
 
-- 🌱 I’m currently learning: **AWS**
+- 🌱 I’m currently learning: **AWS and SQL Server**
 
 - 👨‍💻 Know about all my experiences: [https://www.linkedin.com/in/matthewwcrowley/](https://www.linkedin.com/in/matthewwcrowley/)
 

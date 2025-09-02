@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Crowley</h1>
-<h3 align="center">A jack of all trades in tech</h3>
+<h3 align="center">A jack of all trades in tech<br>I do all things with the utmost confidence, professionalism, and dependancy</h3>
 
 - 🌱 I’m currently learning: **AWS and SQL Server**
 
